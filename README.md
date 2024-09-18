@@ -1,4 +1,4 @@
 # seminar-3-advgit
 
-Petr Tenyakov
+Petr Tenyakov 196-Petr-T
 
